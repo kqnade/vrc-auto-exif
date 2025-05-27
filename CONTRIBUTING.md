@@ -34,7 +34,7 @@ When making commits, please follow these guidelines:
   - `:bug:` for bug fixes
   - `:sparkles:` for new features
   - `:memo:` for documentation changes
-- Should use the present tense in commit messages (e.g., "Fix bug" instead of "Fixed bug").
+- Use the present tense in commit messages (e.g., "Fix bug" instead of "Fixed bug").
 - Keep commit messages concise, ideally under 50 characters for the subject line.
 - If the commit is related to an issue, include the issue number in the commit message (e.g., "Fix #123").
 - Avoid committing large binary files or sensitive information (e.g., passwords, API keys).

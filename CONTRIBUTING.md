@@ -7,7 +7,7 @@
 - [Commits](#commits)
 - [Code Style](#code-style)
 - [Documentation](#documentation)
-- [Main Maintainers](#main-maintainers)
+- [Main Maintainer](#main-maintainer)
 
 ## Issues
 

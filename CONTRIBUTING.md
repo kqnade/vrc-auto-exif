@@ -43,6 +43,7 @@ When making commits, please follow these guidelines:
 
 Please follow the project's coding style and conventions. This includes:
 - Using consistent indentation (in this project, we use 2 spaces for indentation and no tabs).
+- Writing clean and readable code.
 - Using meaningful variable and function names.
 - Writing clear and concise comments where necessary.
 - Keeping lines of code within a reasonable length (e.g., 80-100 characters).

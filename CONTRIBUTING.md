@@ -58,7 +58,7 @@ Please ensure that any new features or changes to existing functionality are doc
 - Adding comments to your code to explain complex logic or important decisions.
 - If applicable, updating any relevant API documentation or user guides.
 
-## Main Maintainers
+## Main Maintainer
 
 - Yuzuki Kana (`kqnade`)
   - [GitHub](https://github.com/kqnade)

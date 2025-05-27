@@ -1,9 +1,9 @@
 # Contributing Guidelines
 
-## Table of Content
+## Table of Contents
 
 - [Contributing Guidelines](#contributing-guidelines)
-  - [ToC / Table of Content](#toc--table-of-content)
+  - [ToC / Table of Contents](#toc--table-of-contents)
   - [Issues](#issues)
   - [Pull Requests](#pull-requests)
   - [Commits](#commits)

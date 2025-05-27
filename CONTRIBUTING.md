@@ -1,8 +1,15 @@
 # Contributing Guidelines
 
-## ToC / Table of Content
+## Table of Content
 
-TBA
+- [Contributing Guidelines](#contributing-guidelines)
+  - [ToC / Table of Content](#toc--table-of-content)
+  - [Issues](#issues)
+  - [Pull Requests](#pull-requests)
+  - [Commits](#commits)
+  - [Code Style](#code-style)
+  - [Documentation](#documentation)
+  - [Main Maintainers](#main-maintainers)
 
 ## Issues
 

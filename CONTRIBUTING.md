@@ -1,4 +1,4 @@
-# For contributor document
+# Contributing Guidelines
 
 ## ToC / Table of Content
 

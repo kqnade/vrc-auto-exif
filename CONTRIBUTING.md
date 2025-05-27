@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Contributing Guidelines](#contributing-guidelines)
-  - [ToC / Table of Contents](#toc--table-of-contents)
+  - [ToC / Table of Contents](#table-of-contents)
   - [Issues](#issues)
   - [Pull Requests](#pull-requests)
   - [Commits](#commits)
